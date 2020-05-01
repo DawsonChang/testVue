@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": 15427,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "5 Penciles",
+      "category": "Family & Personal",
+      "amount": "20",
+      "date": "2020-04-28",
+      "time": "10:00",
+      "location": "RGB bookstore",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vestibulum nisi nec turpis semper vulputate. Nulla facilisi. In fringilla tempor pulvinar. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum auctor augue non massa facilisis, ac finibus neque porta. Quisque eget enim justo."
+    },
+    {
+      "id": 36325,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Medicine tablet",
+      "category": "Healthcare",
+      "amount": "150",
+      "date": "2020-05-27",
+      "time": "14:00",
+      "location": "Med care center",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vestibulum nisi nec turpis semper vulputate. Nulla facilisi. In fringilla tempor pulvinar. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum auctor augue non massa facilisis, ac finibus neque porta. Quisque eget enim justo."
+    },
+    {
+      "id": 47852,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Fuel my car",
+      "category": "Car",
+      "amount": "800",
+      "date": "2020-05-27",
+      "time": "08:00",
+      "location": "East gas station",
+      "description": "Fusce dignissim, leo ultricies hendrerit pharetra, tortor arcu ultrices eros, eu dignissim sem velit condimentum turpis. Proin vitae sodales velit. Nunc dignissim eget augue sit amet accumsan. Morbi in mattis urna. Proin a urna tempor, molestie ex placerat, suscipit lacus. "
+    },
+    {
+      "id": 31979,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Apples",
+      "category": "Food & Drink",
+      "amount": "20",
+      "date": "2020-03-05",
+      "time": "8:00",
+      "location": "Walmart",
+      "description": "Duis ut lacus eu urna sodales ornare. Maecenas imperdiet nibh enim, non fringilla ex fermentum id. Suspendisse cursus magna diam, non egestas nibh molestie ac. Proin vel magna dui. "
+    },
+    {
+      "id": 77467,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "PS4",
+      "category": "Gifts",
+      "amount": "12000",
+      "date": "2020-03-05",
+      "time": "12:00",
+      "location": "Akihabara",
+      "description": "Sed egestas interdum est, sed viverra enim interdum id. Nam ut velit eget purus accumsan blandit a ac ligula. Nunc id velit ac ipsum consequat dictum in quis nisi. Donec vulputate risus facilisis sodales egestas."
+    },
+    {
+      "id": 35503,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Travel to Iceland",
+      "category": "Travel",
+      "amount": "50000",
+      "date": "2020-04-01",
+      "time": "5:00",
+      "location": "FunTour ",
+      "description": "Fusce eleifend, ipsum quis convallis vulputate, massa mi mollis massa, ut faucibus nisi metus a est. Praesent pharetra lacus ligula, vel auctor felis imperdiet ut. Vestibulum et augue varius, rhoncus lectus in, vehicula ligula. Etiam viverra vehicula rutrum. Pellentesque at massa sed urna placerat laoreet eu a diam."
+    },
+    {
+      "id": 20808,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Donate to orphanage",
+      "category": "Other",
+      "amount": "1000",
+      "date": "2020-04-02",
+      "time": "18:00",
+      "location": "Green Street",
+      "description": "Praesent a finibus urna, vel sollicitudin purus. Proin vel suscipit enim. Aliquam ornare nisi vitae nunc vehicula mollis. Vivamus venenatis tempus tempus. Nunc nulla tellus, pharetra et rhoncus sit amet, bibendum molestie justo. Suspendisse ac sollicitudin felis. "
+    }
+  ]
+}

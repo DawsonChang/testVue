@@ -1,0 +1,60 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "5 Penciles",
+      "category": "Family & Personal",
+      "amount": 20,
+      "date": "Apr 28 2020",
+      "time": "10:00",
+      "location": "RGB bookstore",
+      "description": "To write some memo."
+    },
+    {
+      "id": 2,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "KFC",
+      "category": "Food & Drink",
+      "amount": 300,
+      "date": "Apr 28 2020",
+      "time": "20:00",
+      "location": "KFC restaurant",
+      "description": "Eat dinner with my friends."
+    },
+    {
+      "id": 3,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Medicine tablet",
+      "category": "Healthcare",
+      "amount": 150,
+      "date": "May 27 2020",
+      "time": "14:00",
+      "location": "Med care center",
+      "description": "Feel dizzy at afternoon."
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": "abc123",
+        "name": "TS Chang"
+      },
+      "title": "Fuel my car",
+      "category": "Car",
+      "amount": 800,
+      "date": "May 27 2020",
+      "time": "08:00",
+      "location": "East gas station",
+      "description": "As usual"
+    }
+  ]
+}

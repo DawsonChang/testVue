@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Budget Today",
+    "budgets": [0, 20, 100, 300, 520, 200, 0],
+    "color": "cyan",
+    "labels": ["0AM", "4AM", "8AM", "12AM", "4PM", "8PM", "0AM"]
+  },
+  {
+    "title": "Budget This Month",
+    "budgets": [3253, 7123, 5273, 2573],
+    "color": "teal",
+    "labels": ["Week 1", "Week 2", "Week 3", "Week 4"]
+  },
+  {
+    "title": "Budget Half Year",
+    "budgets": [9854, 21458, 15000, 12542, 14231, 12100],
+    "color": "green",
+    "labels": ["Jan", "Feb", "Mar", "Apr", "May", "Jun"]
+  }
+]
