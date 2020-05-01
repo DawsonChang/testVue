@@ -15,13 +15,13 @@ const router = new Router({
   mode: "history",
   routes: [
     {
-      path: "/",
+      path: "/testVue",
       name: "event-list",
       component: EventList,
       props: true,
     },
     {
-      path: "/event/:id",
+      path: "/testVue/event/:id",
       name: "event-show",
       component: EventShow,
       props: true,
@@ -45,18 +45,18 @@ const router = new Router({
       },
     },
     {
-      path: "/create",
+      path: "/testVue/create",
       name: "event-create",
       component: EventCreate,
     },
     {
-      path: "/dashboard",
+      path: "/testVue/dashboard",
       name: "dash-board",
       component: Dashboard,
       props: true,
     },
     {
-      path: "/network-issue",
+      path: "/testVue/network-issue",
       name: "network-issue",
       component: NetworkIssue,
     },
